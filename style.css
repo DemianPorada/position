@@ -1,0 +1,30 @@
+.box{
+    width: 800px;
+    height: 600px;
+    border: 1px solid coral;
+    background-color: rgb(231, 225, 225);
+    padding: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+.innerbox{
+    width: 500px;
+    height: 400px;
+    border: 3px solid red;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    position: absolute;
+}
+.list{
+    border: 1px solid green;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+button{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
