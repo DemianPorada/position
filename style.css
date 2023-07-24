@@ -1,4 +1,4 @@
-.box{
+/* .box{
     width: 800px;
     height: 600px;
     border: 1px solid coral;
@@ -15,7 +15,7 @@
     /* display: flex;
     justify-content: center;
     align-items: center; */
-    position: absolute;
+    /* position: absolute;
 }
 .list{
     border: 1px solid green;
@@ -27,4 +27,16 @@ button{
     position: absolute;
     top: 50px;
     left: 50px;
+} */ */
+.page-header {
+    position: fixed;
+    height: 70px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    color: rgba(0, 255, 255, 0.5);
+    outline: 1px solid  black; ;
+}
+.pok{
+    color: aqua;
 }
