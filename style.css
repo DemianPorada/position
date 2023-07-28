@@ -48,12 +48,35 @@ body{
 }
 .button{
 } */
-.backdrop{
+/* .backdrop{
     background-color: blueviolet;
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
+} */
+.button{
+    color: azure;
 }
-.but
+div{
+    background-color: rgba(138, 43, 226, 0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+div .modal{
+    position: absolute;
+    width: 800px;
+    height: 500px;
+    background-color: #fff;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+.backdro .is hidden{
+    
+}
